@@ -23,3 +23,12 @@ function nowServing(KatzDeliLine) {
     return `The line is currently:${KatzDeli}`
   }
   
+  
+  
+  
+
+function summationSequence(start, length) {
+  let numberOfElements = [] 
+  numberOfElements.push(`${start},`)
+  for (var i = 0; i < length; i++);
+}
